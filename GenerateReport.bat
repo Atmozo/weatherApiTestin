@@ -1,0 +1,1 @@
+allure serve C:\Users\school\Desktop\weatherApiTestin\target\
